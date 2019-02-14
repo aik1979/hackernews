@@ -6,10 +6,6 @@ https://aik1979.github.io/hackernews/
 
 ## Description
 
-Created as a part of the Technical Interview stage for AND Digital.
-
-## Task
-
 To write a hackernews client to fetch the top stories from hackernews using their [official API](https://github.com/HackerNews/API).
 
 ## Usage
